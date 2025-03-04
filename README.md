@@ -1,4 +1,4 @@
 # arise
 First
 <br>
-Author - Ritul Priyadarsan
+Author - Ritul Priyadarshan
